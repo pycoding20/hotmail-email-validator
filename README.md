@@ -40,7 +40,7 @@
 
 ## Contact
 
-For availability Telegram : @thepythoncode97
+For availability Telegram : [@thepythoncode97](https://t.me/thepythoncode97)
 
 ## Note:
 This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.

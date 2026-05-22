@@ -5,17 +5,17 @@
 
 ## 🚀 Features
 
-1. Fast Checking  
-2. Accurate Results  
-3. HTTP Proxy Support  
-4. Advanced Mechanism for Checking Large Amounts  
-5. Unlimited Checking  
-6. Supports All hotmail Domains  
-7. 350+ CPM with Free Proxy  
+1. Fast Checking.
+2. Accurate Results.
+3. Proxy Support.
+4. Advanced Mechanism for Checking Large Amounts.
+5. Unlimited Checking.
+6. Supports All hotmail Domains.
+7. 350+ CPM with Free Proxy.
 
 ## 🤝 Get in Touch
 
-if you want to purchase,
+if you want to purchase ,
 
 - Email     : elowenreply@gmail.com
 - Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)

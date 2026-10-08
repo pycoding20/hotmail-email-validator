@@ -10,7 +10,7 @@
 3. Proxy Support.
 4. Advanced Mechanism for Checking Large Amounts.
 5. Unlimited Checking.
-6. Supports All hotmail Domains.
+6. Supports All Hotmail Domains.
 7. 350+ CPM with Free Proxy.
 
 ## 🤝 Get in Touch
